@@ -16,6 +16,7 @@ export const creativeProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://prisimai.github.io/PrisimIG",
     description: "Seamless AI-generated imagery with Pollinations.AI. An intuitive web application for generating high-quality images from text prompts in various styles (realistic, anime, cartoon, fantasy). Features multiple image sizes (256x256, 512x512, 1024x1024), batch generation of up to 5 images, and a clean user-friendly interface without requiring sign-ups or API keys.",
     author: "@CloudCompile",
@@ -67,6 +68,7 @@ export const creativeProjects = [
   },
   {
     name: "Image Generator by Quilix 🖼️",
+    stars: 1,
     url: "https://github.com/quil1x/ImageBYquilix",
     description: "A beautiful desktop application for generating AI images using Pollinations.AI API. Built with Electron, features modern dark theme with glassmorphism effects, supports multiple AI models (Flux, Turbo, Midjourney), cross-platform support (Windows, macOS, Linux), and generates 1024x1024 images without watermarks.",
     author: "@quil1x",
@@ -76,6 +78,7 @@ export const creativeProjects = [
   },
   {
     name: "Imagen - AI Image Generator 🎨",
+    stars: 10,
     stars: 10,
     stars: 10,
     stars: 10,
@@ -122,6 +125,7 @@ export const creativeProjects = [
   },
   {
     name: "DirPixel 🎨",
+    stars: 2,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -224,6 +228,7 @@ export const creativeProjects = [
     stars: 4,
     stars: 4,
     stars: 4,
+    stars: 4,
     url: "https://evolve-ai-gamma.vercel.app/",
     description: "Evolve AI is an intelligent assistant platform that brings together a variety of cutting-edge AI tools to simplify and automate user tasks. It integrates multiple APIs from Pollinations to enable features such as advanced text-to-speech, code generation, code editing, AI-based image generation, and more. The platform is designed to evolve with user needs, combining creativity and productivity into one cohesive experience.",
     author: "@chandankumarm55",
@@ -233,6 +238,7 @@ export const creativeProjects = [
   },
   {
     name: "What is this? ❔",
+    stars: 2,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -341,6 +347,7 @@ export const creativeProjects = [
     stars: 4,
     stars: 4,
     stars: 4,
+    stars: 4,
     stars: 3,
     stars: 3,
     stars: 3,
@@ -422,6 +429,7 @@ export const creativeProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -470,6 +478,7 @@ export const creativeProjects = [
   },
   {
     name: "Dreamscape AI",
+    stars: 5,
     stars: 5,
     stars: 5,
     stars: 5,
@@ -550,6 +559,7 @@ export const creativeProjects = [
   },
   {
     name: "Elixpo Art Chrome Extension",
+    stars: 76,
     stars: 75,
     stars: 75,
     stars: 73,
@@ -572,6 +582,7 @@ export const creativeProjects = [
   },
   {
     name: "Imagen",
+    stars: 10,
     stars: 10,
     stars: 10,
     stars: 10,
@@ -621,6 +632,7 @@ export const creativeProjects = [
   },
   {
     name: "MoneyPrinterTurbo",
+    stars: 46870,
     stars: 46792,
     stars: 46691,
     stars: 46636,
@@ -642,6 +654,7 @@ export const creativeProjects = [
   },
   {
     name: "Match-cut video ai",
+    stars: 17,
     stars: 17,
     stars: 17,
     stars: 17,
@@ -714,6 +727,7 @@ export const creativeProjects = [
     stars: 268,
     stars: 268,
     stars: 268,
+    stars: 268,
     stars: 178,
     url: "https://fs.wen.bar",
     description: "Use Natural Language to \"Converse\" with Your Codebase, Folda-Scan Smart Project Q&A, powered by advanced vectorization technology, allows you to easily understand complex code, pinpoint information, and offers unprecedented convenience for AI collaboration.",
@@ -733,6 +747,7 @@ export const creativeProjects = [
   },
   {
     name: "MASala",
+    stars: 4,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -797,6 +812,7 @@ export const creativeProjects = [
   },
   {
     name: "Imagen",
+    stars: 10,
     stars: 10,
     stars: 10,
     stars: 10,
