@@ -25,6 +25,7 @@ export const hackAndBuildProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     stars: 5,
     stars: 5,
     stars: 5,
@@ -66,6 +67,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "MCPollinations (Community)",
+    stars: 37,
     stars: 37,
     stars: 37,
     stars: 37,
@@ -144,6 +146,7 @@ export const hackAndBuildProjects = [
     stars: 26,
     stars: 26,
     stars: 26,
+    stars: 26,
     url: "https://github.com/cusanotech/90-herramientas-de-inteligencia-artificial",
     description: "Tools designed with Pollinations.AI and the DescartesJS editor, including tools from other Pollinations.AI community members.",
     author: "@juanrivera126",
@@ -182,6 +185,7 @@ export const hackAndBuildProjects = [
   {
     name: "CoNavic",
     stars: 9,
+    stars: 9,
     stars: 8,
     stars: 8,
     stars: 8,
@@ -204,6 +208,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "WordPress AI Vision Block",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -268,6 +273,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 26,
     stars: 26,
     stars: 26,
     stars: 26,
