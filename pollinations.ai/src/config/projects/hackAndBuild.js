@@ -82,6 +82,7 @@ export const hackAndBuildProjects = [
     stars: 37,
     stars: 37,
     stars: 37,
+    stars: 37,
     stars: 36,
     stars: 36,
     stars: 36,
@@ -137,6 +138,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 25,
     stars: 25,
     stars: 26,
     stars: 26,
@@ -198,6 +200,7 @@ export const hackAndBuildProjects = [
     stars: 9,
     stars: 9,
     stars: 9,
+    stars: 9,
     stars: 8,
     stars: 8,
     stars: 8,
@@ -220,6 +223,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "WordPress AI Vision Block",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -258,6 +262,7 @@ export const hackAndBuildProjects = [
     stars: 4,
     stars: 4,
     stars: 4,
+    stars: 4,
     description: "Avatar Translator for Dominican Sign Language that uses artificial intelligence to translate text and audio into Dominican sign language (LSRD), creating a communication bridge for approximately 100,000 deaf people in the Dominican Republic.",
     author: "@cmunozdev",
     repo: "https://github.com/cmunozdev/DominiSigns",
@@ -267,6 +272,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Mimir AIP",
+    stars: 14,
     stars: 14,
     stars: 14,
     stars: 14,
@@ -290,6 +296,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 25,
     stars: 25,
     stars: 26,
     stars: 26,
@@ -346,6 +353,7 @@ export const hackAndBuildProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     url: "https://github.com/fisventurous/pollinationsai-enhancer",
     description: "A frontend-based AI interface designed to deliver a smooth, multimodal, and visually engaging user experience with conversational AI, image generation, and more.",
     author: "@fisven",
@@ -356,6 +364,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "💻️ Windows Walker",
+    stars: 16,
     stars: 16,
     stars: 16,
     stars: 16,
@@ -393,6 +402,7 @@ export const hackAndBuildProjects = [
     stars: 60,
     stars: 60,
     stars: 60,
+    stars: 60,
     stars: 59,
     stars: 59,
     stars: 59,
@@ -406,6 +416,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "tgpt",
+    stars: 2946,
     stars: 2944,
     stars: 2942,
     stars: 2942,
@@ -443,6 +454,7 @@ export const hackAndBuildProjects = [
     stars: 4,
     stars: 4,
     stars: 4,
+    stars: 4,
     url: "https://www.template.net/ai-sign-generator",
     description: "A WordPress block plugin that lets users create AI-generated images through the block editor. Integrates with Pollinations API to generate images from text prompts directly within WordPress.",
     author: "@dominicva",
@@ -452,6 +464,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Server Status Dashboards",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -492,6 +505,7 @@ export const hackAndBuildProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     url: "https://th3-ai.github.io/DynaSpark",
     description: "The DynaSpark API provides simple yet powerful AI capabilities for text generation, image creation, and audio synthesis. Built on the Pollinations AI API, it includes its own Python package and detailed documentation. Lightweight, developer-friendly, and easy to integrate with fast API calls and seamless operation in both web and desktop environments.",
     author: "@Th3-C0der",
@@ -501,6 +515,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "YankoviC",
+    stars: 1,
     stars: 1,
     stars: 1,
     stars: 1,
@@ -526,6 +541,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Querynator5000",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,
