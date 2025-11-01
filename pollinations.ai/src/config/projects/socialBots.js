@@ -108,6 +108,7 @@ export const socialBotsProjects = [
     stars: 11,
     stars: 11,
     stars: 11,
+    stars: 11,
     stars: 10,
     stars: 10,
     stars: 10,
