@@ -16,6 +16,7 @@ export const vibeCodingProjects = [
     name: "Visiora - Image Generation using AI 🎨",
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -40,6 +41,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "PairFusion",
+    stars: 5,
     stars: 5,
     stars: 5,
     stars: 5,
@@ -104,6 +106,7 @@ export const vibeCodingProjects = [
     stars: 22,
     stars: 22,
     stars: 22,
+    stars: 22,
     stars: 21,
     stars: 20,
     url: "https://github.com/LousyBook94/pollinations-task-master",
@@ -116,6 +119,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "Qwen-Agent",
+    stars: 12188,
     stars: 12177,
     stars: 12171,
     stars: 12148,
@@ -202,6 +206,7 @@ export const vibeCodingProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     stars: 5,
     url: "https://socialscribe.pages.dev/",
     description: "An AI-powered Chrome extension that fixes grammar, rewrites text, and enhances your writing across websites like Twitter, LinkedIn, and Gmail, with customizable tone, length, and platform-specific formatting, plus support for emojis, hashtags, and keyword suggestions.",
@@ -223,6 +228,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "websim-pollinations-ai",
+    stars: 3145,
     stars: 3136,
     stars: 3132,
     stars: 3124,
