@@ -36,6 +36,7 @@ export const hackAndBuildProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     stars: 5,
     stars: 5,
     stars: 5,
