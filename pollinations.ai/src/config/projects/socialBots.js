@@ -75,6 +75,7 @@ export const socialBotsProjects = [
     stars: 18,
     stars: 18,
     stars: 18,
+    stars: 18,
     stars: 17,
     stars: 17,
     url: "https://github.com/Zingzy/pollinations.ai-bot",
@@ -114,6 +115,7 @@ export const socialBotsProjects = [
   },
   {
     name: "AI Image Generator [ROBLOX]",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,

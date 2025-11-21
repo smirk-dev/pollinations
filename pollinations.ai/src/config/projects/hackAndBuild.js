@@ -845,6 +845,7 @@ export const hackAndBuildProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     url: "https://querynator5000.onrender.com/",
     description: "Modern AI-first SQL interface for exploring and manipulating databases with natural language, running entirely in the browser with local persistence.",
     author: "@SuperShivam5000",

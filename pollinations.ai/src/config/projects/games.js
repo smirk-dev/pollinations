@@ -80,6 +80,7 @@ export const gamesProjects = [
     stars: 32,
     stars: 32,
     stars: 32,
+    stars: 32,
     stars: 31,
     stars: 31,
     stars: 31,
@@ -114,6 +115,7 @@ export const gamesProjects = [
   },
   {
     name: "Minecraft AI (Python)",
+    stars: 8,
     stars: 8,
     stars: 8,
     stars: 8,
@@ -199,6 +201,7 @@ export const gamesProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://github.com/pollinations/sirius-cybernetics-elevator-challenge",
     description: "A programming challenge that uses Pollinations AI to simulate personality-driven elevator systems in a virtual building environment.",
     author: "@sirius_dev",
@@ -216,6 +219,7 @@ export const gamesProjects = [
   },
   {
     name: "AI Character RP (Roblox)",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
