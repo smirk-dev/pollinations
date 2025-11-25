@@ -18,6 +18,7 @@ export const hackAndBuildProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -90,6 +91,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "MCPollinations (Community)",
+    stars: 38,
     stars: 38,
     stars: 38,
     stars: 37,
@@ -191,6 +193,7 @@ export const hackAndBuildProjects = [
     stars: 26,
     stars: 26,
     stars: 26,
+    stars: 26,
     stars: 25,
     stars: 25,
     stars: 25,
@@ -278,6 +281,7 @@ export const hackAndBuildProjects = [
     stars: 9,
     stars: 9,
     stars: 9,
+    stars: 9,
     stars: 8,
     stars: 8,
     stars: 8,
@@ -300,6 +304,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "WordPress AI Vision Block",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -429,6 +434,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 26,
     stars: 26,
     stars: 26,
     stars: 26,
@@ -834,6 +840,7 @@ export const hackAndBuildProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://github.com/Sweaterdog/YankoviC",
     description: "A programming language interpreter written in JavaScript that emulates C/C++ writing style with Weird Al themed elements. Comes with 'The Accordion' IDE that uses Pollinations for tab autocomplete and chat assistant to help people learn YankoviC.",
     author: "@Sweaterdog",
@@ -844,6 +851,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Querynator5000",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,
