@@ -22,6 +22,7 @@ export const hackAndBuildProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -94,6 +95,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "MCPollinations (Community)",
+    stars: 38,
     stars: 38,
     stars: 38,
     stars: 38,
@@ -203,6 +205,7 @@ export const hackAndBuildProjects = [
     stars: 26,
     stars: 26,
     stars: 26,
+    stars: 26,
     stars: 25,
     stars: 25,
     stars: 25,
@@ -265,6 +268,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "CoNavic",
+    stars: 9,
     stars: 9,
     stars: 9,
     stars: 9,
@@ -454,6 +458,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 26,
     stars: 26,
     stars: 26,
     stars: 26,
