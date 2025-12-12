@@ -16,6 +16,7 @@ export const vibeCodingProjects = [
     name: "Visiora - Image Generation using AI 🎨",
     stars: 4,
     stars: 4,
+    stars: 4,
     stars: 3,
     stars: 3,
     stars: 3,
@@ -71,6 +72,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "PairFusion",
+    stars: 6,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -172,6 +174,7 @@ export const vibeCodingProjects = [
     stars: 24,
     stars: 24,
     stars: 24,
+    stars: 24,
     stars: 23,
     stars: 23,
     stars: 23,
@@ -209,6 +212,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "Qwen-Agent",
+    stars: 12643,
     stars: 12640,
     stars: 12633,
     stars: 12611,
@@ -333,6 +337,7 @@ export const vibeCodingProjects = [
     stars: 7,
     stars: 7,
     stars: 7,
+    stars: 7,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -378,6 +383,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "websim-pollinations-ai",
+    stars: 3405,
     stars: 3396,
     stars: 3385,
     stars: 3366,
