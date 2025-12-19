@@ -78,6 +78,7 @@ export const learnProjects = [
     stars: 14,
     stars: 14,
     stars: 14,
+    stars: 14,
     stars: 13,
     stars: 13,
     stars: 13,
