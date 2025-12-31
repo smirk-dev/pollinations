@@ -68,6 +68,7 @@ export const learnProjects = [
   },
   {
     name: "Connect Pollinations with Open Web UI tutorial",
+    stars: 15,
     stars: 14,
     stars: 14,
     stars: 14,
