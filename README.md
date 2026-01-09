@@ -3,7 +3,7 @@
 > Discover amazing AI-powered projects from our vibrant community
 
 [![Projects](https://img.shields.io/badge/Projects-207-blue.svg)](https://pollinations.ai/projects)
-[![GitHub Stars](https://img.shields.io/badge/Stars-247,847-yellow.svg)](https://github.com/pollinations)
+[![GitHub Stars](https://img.shields.io/badge/Stars-247,905-yellow.svg)](https://github.com/pollinations)
 [![Community](https://img.shields.io/badge/Community-Active-green.svg)](https://discord.gg/k9F7SyTgqn)
 [![Web Interface](https://img.shields.io/badge/Explore-pollinations.ai/projects-purple.svg)](https://pollinations.ai/projects)
 
@@ -21,9 +21,9 @@
 
 | Project | Description | Author | Stars |
 |---------|-------------|--------|-------|
-| [websim-pollinations-ai](https://websim.pollinations.ai) ([repo](https://github.com/pollinations/pollinations/tree/master/websim.pollinations.ai)) | A lightweight websim for creating web simulations with AI. Usage: https://websim.pollinations.ai/... | @thomash | ⭐ 3683 |
+| [websim-pollinations-ai](https://websim.pollinations.ai) ([repo](https://github.com/pollinations/pollinations/tree/master/websim.pollinations.ai)) | A lightweight websim for creating web simulations with AI. Usage: https://websim.pollinations.ai/... | @thomash | ⭐ 3690 |
 | [Berrry Computer](https://berrry.app) ([repo](https://github.com/Strawberry-Computer)) | Make tiny self-contained web apps with AI. Find a tweet with an interesting app idea, mention @Be... | @vgrichina |  |
-| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ([repo](https://github.com/QwenLM/Qwen-Agent)) | A framework for developing agentic LLM applications. |  | ⭐ 12885 |
+| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ([repo](https://github.com/QwenLM/Qwen-Agent)) | A framework for developing agentic LLM applications. |  | ⭐ 12891 |
 | [Pollinations Task Master](https://github.com/LousyBook94/pollinations-task-master) ([repo](https://github.com/LousyBook94/pollinations-task-master)) | A task management system that uses AI to help break down and organize development tasks through n... | @LousyBook94 | ⭐ 26 |
 | [SocialScribe](https://socialscribe.pages.dev/) ([repo](https://github.com/sh20raj/socialscribe)) | An AI-powered Chrome extension that fixes grammar, rewrites text, and enhances your writing acros... | @sh20raj | ⭐ 7 |
 | [PairFusion](https://pair-fusion.vercel.app/) ([repo](https://github.com/auraticabhi/PairFusion)) | A real-time AI powered, scalable and feature-rich collaborative IDE built for modern development ... | @auraticabhi | ⭐ 6 |
@@ -44,7 +44,7 @@
 
 | Project | Description | Author | Stars |
 |---------|-------------|--------|-------|
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ([repo](https://github.com/harry0703/MoneyPrinterTurbo)) | Simply provide a topic or keyword for a video, and it will automatically generate the video copy,... | @harry0703 | ⭐ 48809 |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ([repo](https://github.com/harry0703/MoneyPrinterTurbo)) | Simply provide a topic or keyword for a video, and it will automatically generate the video copy,... | @harry0703 | ⭐ 48811 |
 | [FoldaScan](https://fs.wen.bar) ([repo](https://github.com/0010skn/WebFS-Toolkit-Local-Folder-Scan-Monitor-Versioning-AI-Prep)) | Use Natural Language to \ | @0010skn | ⭐ 269 |
 | [Elixpo Art Chrome Extension](https://chromewebstore.google.com/detail/elixpo-art-select-text-an/hcjdeknbbbllfllddkbacfgehddpnhdh) ([repo](https://github.com/Circuit-Overtime/elixpo_ai_chapter/tree/main/Elixpo%20Chrome%20%20Extension)) | It uses the pollinations image endpoint to generate an image with `boltning` as the model in 4 ty... | Ayushman Bhatacharya | ⭐ 86 |
 | [Match-cut video ai](https://github.com/lrdcxdes/text-match-cut) ([repo](https://github.com/lrdcxdes/text-match-cut)) | This AI generates video from text in match-cut text style, uses pollinations llm to generate near... | @r3ap3redit | ⭐ 23 |
@@ -124,8 +124,8 @@
 | Project | Description | Author | Stars |
 |---------|-------------|--------|-------|
 | [🇨🇳 云渺仙途：凡尘篇](https://ai-game.jkai.de/) ([repo](https://github.com/ZhjGo/ai-game)) | 《云渺仙途：凡尘篇》是一个由AI驱动的文字修仙沙盒游戏 (An AI-driven text cultivation sandbox game featuring immortal cultiv... | @ZhjGo | ⭐ 11 |
-| [AI Character RP (Roblox)](https://github.com/snipcola/Roblox-AI) ([repo](https://github.com/snipcola/Roblox-AI)) | A Roblox game that lets players interact with AI characters powered by Pollinations, featuring dy... | @roblox_ai_dev | ⭐ 11 |
 | [DreamHer](https://dreamher.vercel.app/) ([repo](https://github.com/creation22/DreamGirl)) | Interactive web app that transforms your imagination of a  | @_Creation22 | ⭐ 11 |
+| [AI Character RP (Roblox)](https://github.com/snipcola/Roblox-AI) ([repo](https://github.com/snipcola/Roblox-AI)) | A Roblox game that lets players interact with AI characters powered by Pollinations, featuring dy... | @roblox_ai_dev | ⭐ 10 |
 | [Minecraft AI (Python)](https://github.com/Amagash/minecraft-ai-python) ([repo](https://github.com/Amagash/minecraft-ai-python)) | A Python implementation that uses Pollinations AI to control a Minecraft character through natura... | @Amagash | ⭐ 8 |
 | [AIStorium](https://aistorium.vercel.app/) ([repo](https://github.com/artegoser/ai-storium)) | Service for generating dynamic stories. Generates stories, images and audio by using pollinations... | @artegoser | ⭐ 2 |
 | [Sirius Cybernetics Elevator Challenge](https://github.com/pollinations/sirius-cybernetics-elevator-challenge) ([repo](https://github.com/pollinations/sirius-cybernetics-elevator-challenge)) | A programming challenge that uses Pollinations AI to simulate personality-driven elevator systems... | @sirius_dev | ⭐ 1 |
@@ -185,10 +185,10 @@
 
 | Project | Description | Author | Stars |
 |---------|-------------|--------|-------|
-| [LobeChat](https://lobechat.com) ([repo](https://github.com/lobehub/lobe-chat)) | An open-source, extensible chat UI framework supporting multiple models and features like message... | @lobehub | ⭐ 69927 |
-| [gpt4free](https://github.com/xtekky/gpt4free) ([repo](https://github.com/xtekky/gpt4free)) | The official gpt4free repository - various collection of powerful language models. | xtekky | ⭐ 65670 |
-| [SillyTavern](https://docs.sillytavern.app/) ([repo](https://github.com/SillyTavern/SillyTavern)) | An LLM frontend for power users. Pollinations permits it to generate text and images. |  | ⭐ 21782 |
-| [Free AI Chatbot & Image Generator](https://vercel.com/templates/ai/ai-sdk-image-generator) ([repo](https://github.com/vercel/ai/tree/main/examples/ai-image-generator)) | A web application offering both conversation with AI and image generation capabilities, utilizing... | @aidevs | ⭐ 20698 |
+| [LobeChat](https://lobechat.com) ([repo](https://github.com/lobehub/lobe-chat)) | An open-source, extensible chat UI framework supporting multiple models and features like message... | @lobehub | ⭐ 69947 |
+| [gpt4free](https://github.com/xtekky/gpt4free) ([repo](https://github.com/xtekky/gpt4free)) | The official gpt4free repository - various collection of powerful language models. | xtekky | ⭐ 65654 |
+| [SillyTavern](https://docs.sillytavern.app/) ([repo](https://github.com/SillyTavern/SillyTavern)) | An LLM frontend for power users. Pollinations permits it to generate text and images. |  | ⭐ 21812 |
+| [Free AI Chatbot & Image Generator](https://vercel.com/templates/ai/ai-sdk-image-generator) ([repo](https://github.com/vercel/ai/tree/main/examples/ai-image-generator)) | A web application offering both conversation with AI and image generation capabilities, utilizing... | @aidevs | ⭐ 20709 |
 | [LLM7.io](https://llm7.io) ([repo](https://github.com/chigwell/llm7.io)) | A free and open AI platform providing advanced multimodal capabilities, including large language ... | @chigwell | ⭐ 133 |
 | [FreeAI 🇨🇳](https://freeai.aihub.ren/) ([repo](https://github.com/Azad-sl/FreeAI)) | An AI application platform based on Pollinations.AI API, providing free and unlimited AI chat ass... | @Azad-sl | ⭐ 114 |
 | [LLMS](https://yassineabou.github.io/LLMs-Wasm/) ([repo](https://github.com/yassineAbou/LLMS)) | LLMS is a Kotlin Multiplatform application that brings the power of AI to Android, iOS, Desktop, ... | @yassineAbou | ⭐ 67 |
@@ -245,7 +245,7 @@
 | [🤖 ImageEditer](https://t.me/ImageEditer_bot) | AI Art Studio - A feature-rich Telegram bot that creates art from text prompts, remixes images, m... | @_dr_misterio_ |  |
 | [ExodusAI 🤖](https://api.whatsapp.com/send/?phone=6285150984232&text=Hi&type=phone_number&app_absent=0) | AI-powered chatbot and image generator platform on WhatsApp. Integrated with Pollinations API for... | @FIkriBotDev |  |
 | [Pollix AI](http://t.me/pollixrobot) | Pollix AI is your multilingual AI assistant for fast replies, image understanding, and clean answ... | @bladedev |  |
-| [AI Image Generator [ROBLOX]](https://www.roblox.com/games/ai-image-generator) ([repo](https://github.com/snipcola/Roblox-AI)) | A Roblox experience that allows players to generate images using Pollinations AI directly within ... | @roblox_ai_studio | ⭐ 11 |
+| [AI Image Generator [ROBLOX]](https://www.roblox.com/games/ai-image-generator) ([repo](https://github.com/snipcola/Roblox-AI)) | A Roblox experience that allows players to generate images using Pollinations AI directly within ... | @roblox_ai_studio | ⭐ 10 |
 | [Pollinations WhatsApp Group](https://chat.whatsapp.com/pollinations-ai) | A WhatsApp group bot that allows members to generate AI content through simple commands, making P... | @whatsapp_ai_dev |  |
 | [Quick AI & Jolbak](https://quickai.jolbak.com) ([repo](https://github.com/jacob-ai-bot/jacob)) | A multi-platform bot suite that integrates with Discord, Slack, and Microsoft Teams to provide Po... | @jolbak_dev |  |
 | [SingodiyaTech bot](https://t.me/singodiyatech_bot) | A Telegram bot focused on technical illustrations and diagrams generated by Pollinations AI, aime... | @singodiya_tech |  |
@@ -277,16 +277,16 @@
 ## 📊 Ecosystem Stats
 
 - **Total Projects**: 207
-- **GitHub Stars**: 247,847
+- **GitHub Stars**: 247,905
 - **Categories**: 7
 - **Active Contributors**: 180
 
 ### 🌟 Top Starred Projects
-🥇 [LobeChat](https://lobechat.com) - ⭐ 69927 stars
-🥈 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 65670 stars
-🥉 [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - ⭐ 48809 stars
-🏅 [SillyTavern](https://docs.sillytavern.app/) - ⭐ 21782 stars
-🏅 [Free AI Chatbot & Image Generator](https://vercel.com/templates/ai/ai-sdk-image-generator) - ⭐ 20698 stars
+🥇 [LobeChat](https://lobechat.com) - ⭐ 69947 stars
+🥈 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 65654 stars
+🥉 [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - ⭐ 48811 stars
+🏅 [SillyTavern](https://docs.sillytavern.app/) - ⭐ 21812 stars
+🏅 [Free AI Chatbot & Image Generator](https://vercel.com/templates/ai/ai-sdk-image-generator) - ⭐ 20709 stars
 
 
 ## 🤝 Contributing
