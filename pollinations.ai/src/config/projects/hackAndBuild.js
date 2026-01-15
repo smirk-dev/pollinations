@@ -66,6 +66,7 @@ export const hackAndBuildProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -138,6 +139,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "MCPollinations (Community)",
+    stars: 39,
     stars: 39,
     stars: 39,
     stars: 40,
@@ -309,6 +311,7 @@ export const hackAndBuildProjects = [
     stars: 27,
     stars: 27,
     stars: 27,
+    stars: 27,
     stars: 26,
     stars: 26,
     stars: 26,
@@ -395,6 +398,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "CoNavic",
+    stars: 9,
     stars: 9,
     stars: 9,
     stars: 9,
@@ -666,6 +670,7 @@ export const hackAndBuildProjects = [
     stars: 15,
     stars: 15,
     stars: 15,
+    stars: 15,
     stars: 14,
     stars: 14,
     stars: 14,
@@ -717,6 +722,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 27,
     stars: 27,
     stars: 27,
     stars: 27,
@@ -889,6 +895,7 @@ export const hackAndBuildProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     url: "https://github.com/fisventurous/pollinationsai-enhancer",
     description: "A frontend-based AI interface designed to deliver a smooth, multimodal, and visually engaging user experience with conversational AI, image generation, and more.",
     author: "@fisven",
@@ -899,6 +906,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "💻️ Windows Walker",
+    stars: 16,
     stars: 16,
     stars: 16,
     stars: 16,
@@ -977,6 +985,7 @@ export const hackAndBuildProjects = [
   {
     name: "🛠️ AI Content Describer",
     stars: 62,
+    stars: 62,
     stars: 61,
     stars: 61,
     stars: 61,
@@ -1054,6 +1063,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "tgpt",
+    stars: 3023,
     stars: 3021,
     stars: 3018,
     stars: 3016,
@@ -1275,6 +1285,7 @@ export const hackAndBuildProjects = [
     stars: 7,
     stars: 7,
     stars: 7,
+    stars: 7,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -1288,6 +1299,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "DynaSpark API",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,
@@ -1383,6 +1395,7 @@ export const hackAndBuildProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -1451,6 +1464,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Querynator5000",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,
