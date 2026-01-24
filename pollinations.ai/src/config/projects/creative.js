@@ -206,6 +206,7 @@ export const creativeProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://github.com/quil1x/ImageBYquilix",
     description: "A beautiful desktop application for generating AI images using Pollinations.AI API. Built with Electron, features modern dark theme with glassmorphism effects, supports multiple AI models (Flux, Turbo, Midjourney), cross-platform support (Windows, macOS, Linux), and generates 1024x1024 images without watermarks.",
     author: "@quil1x",
@@ -215,6 +216,7 @@ export const creativeProjects = [
   },
   {
     name: "Imagen - AI Image Generator 🎨",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -424,6 +426,7 @@ export const creativeProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -535,6 +538,7 @@ export const creativeProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://storyweaver-ai-umber.vercel.app/",
     description: "A real-time, collaborative storyboarding application that empowers users to create visual narratives together. In shared 'story rooms,' participants write text prompts that are instantly transformed into comic book-style panels using dual Pollinations API integration - first generating AI summaries of preceding panels via text.pollinations.ai, then combining them with user prompts for contextually connected image generation via image.pollinations.ai.",
     author: "@Karannn3011",
@@ -580,6 +584,7 @@ export const creativeProjects = [
   },
   {
     name: "aitoolbox.software 🛠️",
+    stars: 5,
     stars: 5,
     stars: 4,
     stars: 4,
@@ -785,6 +790,7 @@ export const creativeProjects = [
     stars: 4,
     stars: 4,
     stars: 4,
+    stars: 4,
     url: "https://evolve-ai-gamma.vercel.app/",
     description: "Evolve AI is an intelligent assistant platform that brings together a variety of cutting-edge AI tools to simplify and automate user tasks. It integrates multiple APIs from Pollinations to enable features such as advanced text-to-speech, code generation, code editing, AI-based image generation, and more. The platform is designed to evolve with user needs, combining creativity and productivity into one cohesive experience.",
     author: "@chandankumarm55",
@@ -794,6 +800,7 @@ export const creativeProjects = [
   },
   {
     name: "What is this? ❔",
+    stars: 2,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -1076,6 +1083,7 @@ export const creativeProjects = [
     stars: 5,
     stars: 5,
     stars: 5,
+    stars: 5,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -1158,6 +1166,7 @@ export const creativeProjects = [
   },
   {
     name: "Pollinations.ai Image Generation (for Frame)",
+    stars: 9,
     stars: 9,
     stars: 9,
     stars: 9,
@@ -1305,6 +1314,7 @@ export const creativeProjects = [
   },
   {
     name: "Dreamscape AI",
+    stars: 5,
     stars: 5,
     stars: 5,
     stars: 5,
@@ -1558,6 +1568,7 @@ export const creativeProjects = [
     stars: 86,
     stars: 86,
     stars: 86,
+    stars: 86,
     stars: 85,
     stars: 85,
     stars: 80,
@@ -1588,6 +1599,8 @@ export const creativeProjects = [
   },
   {
     name: "Imagen",
+    stars: 11,
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -1813,6 +1826,7 @@ export const creativeProjects = [
   },
   {
     name: "MoneyPrinterTurbo",
+    stars: 49134,
     stars: 49119,
     stars: 49093,
     stars: 49069,
@@ -1925,6 +1939,7 @@ export const creativeProjects = [
   },
   {
     name: "Match-cut video ai",
+    stars: 23,
     stars: 23,
     stars: 23,
     stars: 23,
@@ -2076,6 +2091,7 @@ export const creativeProjects = [
   },
   {
     name: "FoldaScan",
+    stars: 270,
     stars: 270,
     stars: 270,
     stars: 270,
@@ -2241,6 +2257,7 @@ export const creativeProjects = [
     stars: 5,
     stars: 5,
     stars: 5,
+    stars: 5,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -2348,6 +2365,8 @@ export const creativeProjects = [
   },
   {
     name: "Imagen",
+    stars: 11,
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -2673,6 +2692,7 @@ export const creativeProjects = [
     stars: 14,
     stars: 14,
     stars: 14,
+    stars: 14,
     url: "https://github.com/tangg555/story-generation-demo",
     description: "An AI tool that generates illustrations for stories and articles using Pollinations, helping writers visualize their narratives.",
     author: "@story_viz",
@@ -2707,6 +2727,7 @@ export const creativeProjects = [
   },
   {
     name: "☬SHΞNΞRATOR 🎨",
+    stars: 4,
     stars: 4,
     stars: 4,
     stars: 4,
