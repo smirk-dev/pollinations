@@ -209,6 +209,7 @@ export const creativeProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://github.com/quil1x/ImageBYquilix",
     description: "A beautiful desktop application for generating AI images using Pollinations.AI API. Built with Electron, features modern dark theme with glassmorphism effects, supports multiple AI models (Flux, Turbo, Midjourney), cross-platform support (Windows, macOS, Linux), and generates 1024x1024 images without watermarks.",
     author: "@quil1x",
@@ -218,6 +219,7 @@ export const creativeProjects = [
   },
   {
     name: "Imagen - AI Image Generator 🎨",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -433,6 +435,7 @@ export const creativeProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -547,6 +550,7 @@ export const creativeProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://storyweaver-ai-umber.vercel.app/",
     description: "A real-time, collaborative storyboarding application that empowers users to create visual narratives together. In shared 'story rooms,' participants write text prompts that are instantly transformed into comic book-style panels using dual Pollinations API integration - first generating AI summaries of preceding panels via text.pollinations.ai, then combining them with user prompts for contextually connected image generation via image.pollinations.ai.",
     author: "@Karannn3011",
@@ -592,6 +596,7 @@ export const creativeProjects = [
   },
   {
     name: "aitoolbox.software 🛠️",
+    stars: 5,
     stars: 5,
     stars: 5,
     stars: 5,
@@ -696,6 +701,7 @@ export const creativeProjects = [
   },
   {
     name: "Evolve AI 🤖",
+    stars: 4,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -919,6 +925,7 @@ export const creativeProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     url: "https://whatisthis.pinkpixel.dev/",
     description: "A fun AI-powered object identification tool that helps you identify mysterious objects with just a photo upload. Uses advanced AI vision to analyze photos and tell you exactly what that mysterious object is and what it's used for, plus provides interesting facts about the object.",
     author: "@sizzlebop",
@@ -1010,6 +1017,7 @@ export const creativeProjects = [
   },
   {
     name: "CatGPT Meme Generator 🐱",
+    stars: 6,
     stars: 6,
     stars: 5,
     stars: 5,
@@ -1237,6 +1245,7 @@ export const creativeProjects = [
     stars: 9,
     stars: 9,
     stars: 9,
+    stars: 9,
     stars: 8,
     stars: 8,
     stars: 8,
@@ -1332,6 +1341,7 @@ export const creativeProjects = [
   },
   {
     name: "Dreamscape AI",
+    stars: 5,
     stars: 5,
     stars: 5,
     stars: 5,
@@ -1591,6 +1601,7 @@ export const creativeProjects = [
     stars: 86,
     stars: 86,
     stars: 86,
+    stars: 86,
     stars: 85,
     stars: 85,
     stars: 80,
@@ -1621,6 +1632,8 @@ export const creativeProjects = [
   },
   {
     name: "Imagen",
+    stars: 11,
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -1852,6 +1865,7 @@ export const creativeProjects = [
   },
   {
     name: "MoneyPrinterTurbo",
+    stars: 49191,
     stars: 49176,
     stars: 49148,
     stars: 49134,
@@ -1967,6 +1981,7 @@ export const creativeProjects = [
   },
   {
     name: "Match-cut video ai",
+    stars: 23,
     stars: 23,
     stars: 23,
     stars: 23,
@@ -2121,6 +2136,7 @@ export const creativeProjects = [
   },
   {
     name: "FoldaScan",
+    stars: 270,
     stars: 270,
     stars: 270,
     stars: 270,
@@ -2292,6 +2308,7 @@ export const creativeProjects = [
     stars: 5,
     stars: 5,
     stars: 5,
+    stars: 5,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -2399,6 +2416,8 @@ export const creativeProjects = [
   },
   {
     name: "Imagen",
+    stars: 11,
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -2733,6 +2752,7 @@ export const creativeProjects = [
     stars: 14,
     stars: 14,
     stars: 14,
+    stars: 14,
     url: "https://github.com/tangg555/story-generation-demo",
     description: "An AI tool that generates illustrations for stories and articles using Pollinations, helping writers visualize their narratives.",
     author: "@story_viz",
@@ -2767,6 +2787,7 @@ export const creativeProjects = [
   },
   {
     name: "☬SHΞNΞRATOR 🎨",
+    stars: 4,
     stars: 4,
     stars: 4,
     stars: 4,
