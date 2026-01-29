@@ -72,6 +72,7 @@ export const gamesProjects = [
     stars: 36,
     stars: 36,
     stars: 36,
+    stars: 36,
     stars: 35,
     stars: 34,
     stars: 34,
@@ -178,6 +179,7 @@ export const gamesProjects = [
   },
   {
     name: "Minecraft AI (Python)",
+    stars: 8,
     stars: 8,
     stars: 8,
     stars: 8,
@@ -392,6 +394,7 @@ export const gamesProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://github.com/pollinations/sirius-cybernetics-elevator-challenge",
     description: "A programming challenge that uses Pollinations AI to simulate personality-driven elevator systems in a virtual building environment.",
     author: "@sirius_dev",
@@ -409,6 +412,7 @@ export const gamesProjects = [
   },
   {
     name: "AI Character RP (Roblox)",
+    stars: 12,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -537,6 +541,7 @@ export const gamesProjects = [
   },
   {
     name: "DreamHer",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -792,6 +797,7 @@ export const gamesProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     url: "https://aistorium.vercel.app/",
     description: "Service for generating dynamic stories. Generates stories, images and audio by using pollinations api.",
     author: "@artegoser",
@@ -810,6 +816,7 @@ export const gamesProjects = [
   },
   {
     name: "🇨🇳 云渺仙途：凡尘篇",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
