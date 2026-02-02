@@ -75,6 +75,7 @@ export const gamesProjects = [
     stars: 36,
     stars: 36,
     stars: 36,
+    stars: 36,
     stars: 35,
     stars: 34,
     stars: 34,
@@ -257,6 +258,7 @@ export const gamesProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -296,6 +298,7 @@ export const gamesProjects = [
   },
   {
     name: "Sirius Cybernetics Elevator Challenge",
+    stars: 2,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -420,6 +423,7 @@ export const gamesProjects = [
   },
   {
     name: "AI Character RP (Roblox)",
+    stars: 12,
     stars: 12,
     stars: 12,
     stars: 12,
@@ -552,6 +556,7 @@ export const gamesProjects = [
   },
   {
     name: "DreamHer",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -815,6 +820,7 @@ export const gamesProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     url: "https://aistorium.vercel.app/",
     description: "Service for generating dynamic stories. Generates stories, images and audio by using pollinations api.",
     author: "@artegoser",
@@ -833,6 +839,7 @@ export const gamesProjects = [
   },
   {
     name: "🇨🇳 云渺仙途：凡尘篇",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
