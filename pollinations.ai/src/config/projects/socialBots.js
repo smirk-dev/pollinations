@@ -49,6 +49,7 @@ export const socialBotsProjects = [
   },
   {
     name: "Pollinations Discord Bot",
+    stars: 25,
     stars: 23,
     stars: 23,
     stars: 23,
@@ -163,6 +164,7 @@ export const socialBotsProjects = [
   },
   {
     name: "AI Image Generator [ROBLOX]",
+    stars: 12,
     stars: 12,
     stars: 12,
     stars: 12,
