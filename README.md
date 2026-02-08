@@ -3,7 +3,7 @@
 > Discover amazing AI-powered projects from our vibrant community
 
 [![Projects](https://img.shields.io/badge/Projects-207-blue.svg)](https://pollinations.ai/projects)
-[![GitHub Stars](https://img.shields.io/badge/Stars-253,184-yellow.svg)](https://github.com/pollinations)
+[![GitHub Stars](https://img.shields.io/badge/Stars-253,217-yellow.svg)](https://github.com/pollinations)
 [![Community](https://img.shields.io/badge/Community-Active-green.svg)](https://discord.gg/k9F7SyTgqn)
 [![Web Interface](https://img.shields.io/badge/Explore-pollinations.ai/projects-purple.svg)](https://pollinations.ai/projects)
 
@@ -21,9 +21,9 @@
 
 | Project | Description | Author | Stars |
 |---------|-------------|--------|-------|
-| [websim-pollinations-ai](https://websim.pollinations.ai) ([repo](https://github.com/pollinations/pollinations/tree/master/websim.pollinations.ai)) | A lightweight websim for creating web simulations with AI. Usage: https://websim.pollinations.ai/... | @thomash | ⭐ 3932 |
+| [websim-pollinations-ai](https://websim.pollinations.ai) ([repo](https://github.com/pollinations/pollinations/tree/master/websim.pollinations.ai)) | A lightweight websim for creating web simulations with AI. Usage: https://websim.pollinations.ai/... | @thomash | ⭐ 3940 |
 | [Berrry Computer](https://berrry.app) ([repo](https://github.com/Strawberry-Computer)) | Make tiny self-contained web apps with AI. Find a tweet with an interesting app idea, mention @Be... | @vgrichina |  |
-| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ([repo](https://github.com/QwenLM/Qwen-Agent)) | A framework for developing agentic LLM applications. |  | ⭐ 13224 |
+| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ([repo](https://github.com/QwenLM/Qwen-Agent)) | A framework for developing agentic LLM applications. |  | ⭐ 13228 |
 | [Pollinations Task Master](https://github.com/LousyBook94/pollinations-task-master) ([repo](https://github.com/LousyBook94/pollinations-task-master)) | A task management system that uses AI to help break down and organize development tasks through n... | @LousyBook94 | ⭐ 26 |
 | [SocialScribe](https://socialscribe.pages.dev/) ([repo](https://github.com/sh20raj/socialscribe)) | An AI-powered Chrome extension that fixes grammar, rewrites text, and enhances your writing acros... | @sh20raj | ⭐ 7 |
 | [PairFusion](https://pair-fusion.vercel.app/) ([repo](https://github.com/auraticabhi/PairFusion)) | A real-time AI powered, scalable and feature-rich collaborative IDE built for modern development ... | @auraticabhi | ⭐ 6 |
@@ -44,7 +44,7 @@
 
 | Project | Description | Author | Stars |
 |---------|-------------|--------|-------|
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ([repo](https://github.com/harry0703/MoneyPrinterTurbo)) | Simply provide a topic or keyword for a video, and it will automatically generate the video copy,... | @harry0703 | ⭐ 49403 |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ([repo](https://github.com/harry0703/MoneyPrinterTurbo)) | Simply provide a topic or keyword for a video, and it will automatically generate the video copy,... | @harry0703 | ⭐ 49422 |
 | [FoldaScan](https://fs.wen.bar) ([repo](https://github.com/0010skn/WebFS-Toolkit-Local-Folder-Scan-Monitor-Versioning-AI-Prep)) | Use Natural Language to \ | @0010skn | ⭐ 271 |
 | [Elixpo Art Chrome Extension](https://chromewebstore.google.com/detail/elixpo-art-select-text-an/hcjdeknbbbllfllddkbacfgehddpnhdh) ([repo](https://github.com/Circuit-Overtime/elixpo_ai_chapter/tree/main/Elixpo%20Chrome%20%20Extension)) | It uses the pollinations image endpoint to generate an image with `boltning` as the model in 4 ty... | Ayushman Bhatacharya | ⭐ 87 |
 | [Match-cut video ai](https://github.com/lrdcxdes/text-match-cut) ([repo](https://github.com/lrdcxdes/text-match-cut)) | This AI generates video from text in match-cut text style, uses pollinations llm to generate near... | @r3ap3redit | ⭐ 23 |
@@ -142,7 +142,7 @@
 | [RETIME - FABRIC OF REALITY](https://rivatech-games.itch.io/retime) | A text-based, blind friendly fantasy adventure game powered by Pollinations AI. Players navigate ... | @TheSingleAlgerianPotato |  |
 | [roastmyselfie.app](https://roastmyselfie.app) | AI Personality Analyzer - Get roasted and psychoanalyzed.. just from one selfie! Dare to try? | @andres_11 |  |
 | [Watch TV with neko (Roblox)](https://www.roblox.com/games/15087497266/UPD-Watch-TV-with-neko-AI) | Roblox game where you can talk with AI catgirls 🐾 or just have fun, talking with other players i... | https://www.roblox.com/users/3857849039/profile/ |  |
-| [Infinite Tales](https://github.com/JayJayBinks/infinite-tales-rpg) ([repo](https://github.com/JayJayBinks/infinite-tales-rpg)) | Interactive storytelling platform powered by AI that creates endless narrative adventures. | @infinite_tales | ⭐ 36 |
+| [Infinite Tales](https://github.com/JayJayBinks/infinite-tales-rpg) ([repo](https://github.com/JayJayBinks/infinite-tales-rpg)) | Interactive storytelling platform powered by AI that creates endless narrative adventures. | @infinite_tales | ⭐ 37 |
 
 ## Hack & Build 🛠️
 
@@ -256,7 +256,7 @@
 
 | Project | Description | Author | Stars |
 |---------|-------------|--------|-------|
-| [Connect Pollinations with Open Web UI tutorial](https://github.com/cloph-dsp/Pollinations-AI-in-OpenWebUI) ([repo](https://github.com/cloph-dsp/Pollinations-AI-in-OpenWebUI)) | Step-by-step guide on integrating Pollinations APIs with Open Web UI for enhanced image generation. | @cloph-dsp | ⭐ 15 |
+| [Connect Pollinations with Open Web UI tutorial](https://github.com/cloph-dsp/Pollinations-AI-in-OpenWebUI) ([repo](https://github.com/cloph-dsp/Pollinations-AI-in-OpenWebUI)) | Step-by-step guide on integrating Pollinations APIs with Open Web UI for enhanced image generation. | @cloph-dsp | ⭐ 16 |
 | [EduGen AI 🇧🇷](https://ensinoedugenai.online) | E uma ia voltada para professores e queria a IA pollinations.ai para criar imagens para slides (A... | mlspfc360@gmail.com |  |
 | [Interactive GeoMap 🗺️](https://interactive-geomap.vercel.app) | AI-powered geography insights using text.pollinations.ai API. Click anywhere on the map to discov... | @argyrisAEK |  |
 | [OkeyAI](https://chat.okeymeta.com.ng) ([repo](https://github.com/okeymeta)) | An LLM created by Africans to understand and have cultural awareness of African contexts and lang... | @okeymeta |  |
@@ -277,14 +277,14 @@
 ## 📊 Ecosystem Stats
 
 - **Total Projects**: 207
-- **GitHub Stars**: 253,184
+- **GitHub Stars**: 253,217
 - **Categories**: 7
 - **Active Contributors**: 180
 
 ### 🌟 Top Starred Projects
 🥇 [LobeChat](https://lobechat.com) - ⭐ 72039 stars
 🥈 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 65721 stars
-🥉 [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - ⭐ 49403 stars
+🥉 [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - ⭐ 49422 stars
 🏅 [SillyTavern](https://docs.sillytavern.app/) - ⭐ 22864 stars
 🏅 [Free AI Chatbot & Image Generator](https://vercel.com/templates/ai/ai-sdk-image-generator) - ⭐ 21555 stars
 
