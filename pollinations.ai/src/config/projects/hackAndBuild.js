@@ -95,6 +95,7 @@ export const hackAndBuildProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -167,6 +168,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "MCPollinations (Community)",
+    stars: 39,
     stars: 39,
     stars: 39,
     stars: 39,
@@ -331,6 +333,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 27,
     stars: 27,
     stars: 27,
     stars: 27,
@@ -956,6 +959,7 @@ export const hackAndBuildProjects = [
     stars: 27,
     stars: 27,
     stars: 27,
+    stars: 27,
     stars: 26,
     stars: 26,
     stars: 26,
@@ -1030,6 +1034,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Pollinations.AI Enhancer",
+    stars: 6,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -1204,6 +1209,7 @@ export const hackAndBuildProjects = [
     stars: 16,
     stars: 16,
     stars: 16,
+    stars: 16,
     stars: 15,
     stars: 15,
     stars: 15,
@@ -1226,6 +1232,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "🛠️ AI Content Describer",
+    stars: 62,
     stars: 62,
     stars: 62,
     stars: 62,
@@ -1329,6 +1336,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "tgpt",
+    stars: 3059,
     stars: 3055,
     stars: 3053,
     stars: 3054,
@@ -1621,6 +1629,7 @@ export const hackAndBuildProjects = [
     stars: 7,
     stars: 7,
     stars: 7,
+    stars: 7,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -1634,6 +1643,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "DynaSpark API",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,
@@ -1779,6 +1789,7 @@ export const hackAndBuildProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -1847,6 +1858,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Querynator5000",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,

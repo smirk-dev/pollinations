@@ -26,6 +26,7 @@ export const vibeCodingProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -121,6 +122,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "PairFusion",
+    stars: 6,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -300,6 +302,7 @@ export const vibeCodingProjects = [
     stars: 26,
     stars: 26,
     stars: 26,
+    stars: 26,
     stars: 25,
     stars: 24,
     stars: 24,
@@ -360,6 +363,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "Qwen-Agent",
+    stars: 13265,
     stars: 13263,
     stars: 13256,
     stars: 13258,
@@ -584,6 +588,7 @@ export const vibeCodingProjects = [
     stars: 7,
     stars: 7,
     stars: 7,
+    stars: 7,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -629,6 +634,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "websim-pollinations-ai",
+    stars: 3984,
     stars: 3976,
     stars: 3971,
     stars: 3969,
