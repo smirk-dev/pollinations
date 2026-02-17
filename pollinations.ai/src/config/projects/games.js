@@ -69,6 +69,7 @@ export const gamesProjects = [
   {
     name: "Infinite Tales",
     stars: 38,
+    stars: 38,
     stars: 37,
     stars: 37,
     stars: 37,
@@ -287,6 +288,7 @@ export const gamesProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -326,6 +328,7 @@ export const gamesProjects = [
   },
   {
     name: "Sirius Cybernetics Elevator Challenge",
+    stars: 4,
     stars: 4,
     stars: 4,
     stars: 3,
@@ -465,6 +468,7 @@ export const gamesProjects = [
   },
   {
     name: "AI Character RP (Roblox)",
+    stars: 12,
     stars: 12,
     stars: 12,
     stars: 12,
@@ -664,6 +668,7 @@ export const gamesProjects = [
     stars: 11,
     stars: 11,
     stars: 11,
+    stars: 11,
     stars: 12,
     stars: 12,
     stars: 12,
@@ -784,6 +789,7 @@ export const gamesProjects = [
   },
   {
     name: "AIStorium",
+    stars: 2,
     stars: 2,
     stars: 2,
     stars: 2,
