@@ -1358,6 +1358,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "tgpt",
+    stars: 3065,
     stars: 3063,
     stars: 3059,
     stars: 3059,
@@ -1658,6 +1659,7 @@ export const hackAndBuildProjects = [
     stars: 7,
     stars: 7,
     stars: 7,
+    stars: 7,
     stars: 6,
     stars: 6,
     stars: 6,
@@ -1671,6 +1673,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "DynaSpark API",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,
@@ -1822,6 +1825,7 @@ export const hackAndBuildProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 2,
     stars: 2,
     stars: 2,
@@ -1890,6 +1894,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Querynator5000",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,

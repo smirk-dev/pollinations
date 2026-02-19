@@ -71,6 +71,7 @@ export const gamesProjects = [
     stars: 38,
     stars: 38,
     stars: 38,
+    stars: 38,
     stars: 37,
     stars: 37,
     stars: 37,
