@@ -68,6 +68,7 @@ export const gamesProjects = [
   },
   {
     name: "Infinite Tales",
+    stars: 39,
     stars: 38,
     stars: 38,
     stars: 38,
@@ -200,6 +201,7 @@ export const gamesProjects = [
   },
   {
     name: "Minecraft AI (Python)",
+    stars: 8,
     stars: 8,
     stars: 8,
     stars: 8,
