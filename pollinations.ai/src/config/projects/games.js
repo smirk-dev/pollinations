@@ -90,6 +90,7 @@ export const gamesProjects = [
     stars: 39,
     stars: 39,
     stars: 39,
+    stars: 39,
     stars: 38,
     stars: 38,
     stars: 38,
@@ -222,6 +223,7 @@ export const gamesProjects = [
   },
   {
     name: "Minecraft AI (Python)",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -377,6 +379,7 @@ export const gamesProjects = [
   },
   {
     name: "Sirius Cybernetics Elevator Challenge",
+    stars: 4,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -583,6 +586,7 @@ export const gamesProjects = [
     stars: 12,
     stars: 12,
     stars: 12,
+    stars: 12,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -711,6 +715,7 @@ export const gamesProjects = [
   },
   {
     name: "DreamHer",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -1052,6 +1057,7 @@ export const gamesProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     url: "https://aistorium.vercel.app/",
     description: "Service for generating dynamic stories. Generates stories, images and audio by using pollinations api.",
     author: "@artegoser",
@@ -1070,6 +1076,7 @@ export const gamesProjects = [
   },
   {
     name: "🇨🇳 云渺仙途：凡尘篇",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
