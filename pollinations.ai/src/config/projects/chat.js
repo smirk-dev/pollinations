@@ -102,6 +102,7 @@ export const chatProjects = [
     stars: 69,
     stars: 69,
     stars: 69,
+    stars: 69,
     stars: 68,
     stars: 68,
     stars: 68,
@@ -482,6 +483,7 @@ export const chatProjects = [
     stars: 1,
     stars: 1,
     stars: 1,
+    stars: 1,
     url: "https://thevoidai.vercel.app/",
     description: "A humanlike AI mentor, productivity partner, and emotionally intelligent assistant that adapts its tone and energy based on user behavior. Features conversational AI that feels more like a charismatic friend than a chatbot, providing code walkthroughs, life advice, writing help, and motivation with realistic speech output and context memory.",
     author: "@Ajay-Dhakad",
@@ -538,6 +540,7 @@ export const chatProjects = [
   },
   {
     name: "gpt4free",
+    stars: 65768,
     stars: 65766,
     stars: 65760,
     stars: 65755,
@@ -703,6 +706,7 @@ export const chatProjects = [
   },
   {
     name: "FreeAI 🇨🇳",
+    stars: 119,
     stars: 119,
     stars: 119,
     stars: 119,
@@ -1116,6 +1120,7 @@ export const chatProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     url: "https://chatbot.rizqioliveira.my.id",
     description: "Rizqi O Chatbot adalah proyek berbasis Pollinations yang menggabungkan tiga fitur utama: chatbot AI, generator gambar AI, dan generator audio AI. Pengguna dapat berinteraksi dalam bentuk teks, menghasilkan gambar dengan berbagai gaya seni dan efek visual, serta membuat audio secara otomatis dari teks. (An AI chatbot, image generator, and audio generator project with support for custom aspect ratios, over 200 art styles & visual effects, and automatic translation from Indonesian to English.)",
     author: "@ray23-bit",
@@ -1127,6 +1132,7 @@ export const chatProjects = [
   },
   {
     name: "LLM7.io",
+    stars: 136,
     stars: 136,
     stars: 136,
     stars: 136,
@@ -1293,6 +1299,7 @@ export const chatProjects = [
   },
   {
     name: "SillyTavern",
+    stars: 24472,
     stars: 24413,
     stars: 24366,
     stars: 24316,
@@ -1617,6 +1624,7 @@ export const chatProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     stars: 1,
     stars: 1,
     stars: 1,
@@ -1640,6 +1648,7 @@ export const chatProjects = [
   },
   {
     name: "LobeChat",
+    stars: 73830,
     stars: 73751,
     stars: 73673,
     stars: 73625,
@@ -1962,6 +1971,7 @@ export const chatProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     description: "An AI-client-free project dedicated to enabling AI interaction using only curl, supporting multimodal and MCP capabilities, to provide users with the simplest way to use AI.",
     author: "@Veallym0n",
     repo: "https://github.com/Veallym0n/toai.chat",
@@ -1971,6 +1981,7 @@ export const chatProjects = [
   },
   {
     name: "Free AI Chatbot & Image Generator",
+    stars: 22711,
     stars: 22674,
     stars: 22641,
     stars: 22612,
@@ -2168,6 +2179,7 @@ export const chatProjects = [
   },
   {
     name: "EvilChat 🔥🤖",
+    stars: 12,
     stars: 11,
     stars: 11,
     stars: 11,
