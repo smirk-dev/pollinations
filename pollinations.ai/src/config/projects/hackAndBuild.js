@@ -129,6 +129,7 @@ export const hackAndBuildProjects = [
     stars: 8,
     stars: 8,
     stars: 8,
+    stars: 8,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -201,6 +202,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "MCPollinations (Community)",
+    stars: 39,
     stars: 39,
     stars: 39,
     stars: 39,
@@ -397,6 +399,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 28,
     stars: 28,
     stars: 28,
     stars: 28,
@@ -695,6 +698,7 @@ export const hackAndBuildProjects = [
     stars: 9,
     stars: 9,
     stars: 9,
+    stars: 9,
     stars: 8,
     stars: 8,
     stars: 8,
@@ -717,6 +721,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "WordPress AI Vision Block",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -950,6 +955,7 @@ export const hackAndBuildProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -976,6 +982,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Mimir AIP",
+    stars: 15,
     stars: 15,
     stars: 15,
     stars: 15,
@@ -1101,6 +1108,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Herramientas IA",
+    stars: 28,
     stars: 28,
     stars: 28,
     stars: 28,
@@ -1386,6 +1394,7 @@ export const hackAndBuildProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     url: "https://github.com/fisventurous/pollinationsai-enhancer",
     description: "A frontend-based AI interface designed to deliver a smooth, multimodal, and visually engaging user experience with conversational AI, image generation, and more.",
     author: "@fisven",
@@ -1396,6 +1405,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "💻️ Windows Walker",
+    stars: 16,
     stars: 16,
     stars: 16,
     stars: 16,
@@ -1530,6 +1540,7 @@ export const hackAndBuildProjects = [
     name: "🛠️ AI Content Describer",
     stars: 64,
     stars: 64,
+    stars: 64,
     stars: 63,
     stars: 63,
     stars: 63,
@@ -1662,6 +1673,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "tgpt",
+    stars: 3105,
     stars: 3103,
     stars: 3101,
     stars: 3100,
@@ -1897,6 +1909,7 @@ export const hackAndBuildProjects = [
     stars: 6,
     stars: 6,
     stars: 6,
+    stars: 6,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -1923,6 +1936,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Server Status Dashboards",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -2191,6 +2205,7 @@ export const hackAndBuildProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     url: "https://th3-ai.github.io/DynaSpark",
     description: "The DynaSpark API provides simple yet powerful AI capabilities for text generation, image creation, and audio synthesis. Built on the Pollinations AI API, it includes its own Python package and detailed documentation. Lightweight, developer-friendly, and easy to integrate with fast API calls and seamless operation in both web and desktop environments.",
     author: "@Th3-C0der",
@@ -2200,6 +2215,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "YankoviC",
+    stars: 4,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -2341,6 +2357,7 @@ export const hackAndBuildProjects = [
   },
   {
     name: "Querynator5000",
+    stars: 3,
     stars: 3,
     stars: 3,
     stars: 3,

@@ -59,6 +59,7 @@ export const vibeCodingProjects = [
     stars: 3,
     stars: 3,
     stars: 3,
+    stars: 3,
     stars: 4,
     stars: 4,
     stars: 4,
@@ -154,6 +155,7 @@ export const vibeCodingProjects = [
   },
   {
     name: "PairFusion",
+    stars: 6,
     stars: 6,
     stars: 6,
     stars: 6,
