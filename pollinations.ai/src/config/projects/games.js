@@ -104,6 +104,7 @@ export const gamesProjects = [
     stars: 39,
     stars: 39,
     stars: 39,
+    stars: 39,
     stars: 38,
     stars: 38,
     stars: 38,
@@ -236,6 +237,7 @@ export const gamesProjects = [
   },
   {
     name: "Minecraft AI (Python)",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -582,6 +584,7 @@ export const gamesProjects = [
   },
   {
     name: "AI Character RP (Roblox)",
+    stars: 12,
     stars: 12,
     stars: 12,
     stars: 12,
