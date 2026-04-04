@@ -210,6 +210,7 @@ export const socialBotsProjects = [
   },
   {
     name: "AI Image Generator [ROBLOX]",
+    stars: 13,
     stars: 12,
     stars: 12,
     stars: 12,
