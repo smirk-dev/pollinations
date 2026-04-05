@@ -69,6 +69,7 @@ export const gamesProjects = [
   {
     name: "Infinite Tales",
     stars: 40,
+    stars: 40,
     stars: 39,
     stars: 39,
     stars: 39,
@@ -243,6 +244,7 @@ export const gamesProjects = [
   },
   {
     name: "Minecraft AI (Python)",
+    stars: 7,
     stars: 7,
     stars: 7,
     stars: 7,
@@ -597,6 +599,7 @@ export const gamesProjects = [
   {
     name: "AI Character RP (Roblox)",
     stars: 13,
+    stars: 13,
     stars: 12,
     stars: 12,
     stars: 12,
@@ -788,6 +791,7 @@ export const gamesProjects = [
   },
   {
     name: "DreamHer",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
@@ -1169,6 +1173,7 @@ export const gamesProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     url: "https://aistorium.vercel.app/",
     description: "Service for generating dynamic stories. Generates stories, images and audio by using pollinations api.",
     author: "@artegoser",
@@ -1187,6 +1192,7 @@ export const gamesProjects = [
   },
   {
     name: "🇨🇳 云渺仙途：凡尘篇",
+    stars: 11,
     stars: 11,
     stars: 11,
     stars: 11,
