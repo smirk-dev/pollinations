@@ -100,6 +100,7 @@ export const chatProjects = [
   {
     name: "LLMS",
     stars: 69,
+    stars: 69,
     stars: 68,
     stars: 68,
     stars: 68,
@@ -364,6 +365,7 @@ export const chatProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     stars: 1,
     stars: 1,
     stars: 1,
@@ -578,6 +580,7 @@ export const chatProjects = [
   },
   {
     name: "gpt4free",
+    stars: 65977,
     stars: 65971,
     stars: 65973,
     stars: 65962,
@@ -763,6 +766,7 @@ export const chatProjects = [
   },
   {
     name: "FreeAI 🇨🇳",
+    stars: 121,
     stars: 121,
     stars: 121,
     stars: 121,
@@ -1216,6 +1220,7 @@ export const chatProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     url: "https://chatbot.rizqioliveira.my.id",
     description: "Rizqi O Chatbot adalah proyek berbasis Pollinations yang menggabungkan tiga fitur utama: chatbot AI, generator gambar AI, dan generator audio AI. Pengguna dapat berinteraksi dalam bentuk teks, menghasilkan gambar dengan berbagai gaya seni dan efek visual, serta membuat audio secara otomatis dari teks. (An AI chatbot, image generator, and audio generator project with support for custom aspect ratios, over 200 art styles & visual effects, and automatic translation from Indonesian to English.)",
     author: "@ray23-bit",
@@ -1227,6 +1232,7 @@ export const chatProjects = [
   },
   {
     name: "LLM7.io",
+    stars: 137,
     stars: 137,
     stars: 137,
     stars: 137,
@@ -1413,6 +1419,7 @@ export const chatProjects = [
   },
   {
     name: "SillyTavern",
+    stars: 25302,
     stars: 25257,
     stars: 25223,
     stars: 25182,
@@ -1777,6 +1784,7 @@ export const chatProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     stars: 1,
     stars: 1,
     stars: 1,
@@ -1800,6 +1808,7 @@ export const chatProjects = [
   },
   {
     name: "LobeChat",
+    stars: 74795,
     stars: 74755,
     stars: 74720,
     stars: 74692,
@@ -2162,6 +2171,7 @@ export const chatProjects = [
     stars: 2,
     stars: 2,
     stars: 2,
+    stars: 2,
     description: "An AI-client-free project dedicated to enabling AI interaction using only curl, supporting multimodal and MCP capabilities, to provide users with the simplest way to use AI.",
     author: "@Veallym0n",
     repo: "https://github.com/Veallym0n/toai.chat",
@@ -2171,6 +2181,7 @@ export const chatProjects = [
   },
   {
     name: "Free AI Chatbot & Image Generator",
+    stars: 23285,
     stars: 23258,
     stars: 23231,
     stars: 23209,
@@ -2388,6 +2399,7 @@ export const chatProjects = [
   },
   {
     name: "EvilChat 🔥🤖",
+    stars: 12,
     stars: 12,
     stars: 12,
     stars: 12,
